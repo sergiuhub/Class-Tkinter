@@ -55,6 +55,7 @@ window.configure(bg = "#EFAEA1")             #sets the color of the backround to
 window.geometry("400x200")                   #sets the size of the GUI window to 1000x800
 window.title("Animals")                      #sets the title of the window to "Excel-Reader-Application"
 
+#FRONT
 window.grid_columnconfigure(0, weight=1)
 window.grid_columnconfigure(1, weight=1)
 window.grid_rowconfigure(0, weight=1)
